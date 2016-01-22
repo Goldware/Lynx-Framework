@@ -1,0 +1,11 @@
+{
+  "name": "lxf-js",
+  "version": "1.0.0",
+  "description": "path for install node modules in Lynx Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sacha Wendling - Goldware",
+  "license": "ISC"
+}

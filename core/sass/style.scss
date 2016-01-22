@@ -1,0 +1,19 @@
+/* Architecture for SCSS inspired by SMACSS convention */
+
+// global configuration of website style
+@import 'conf.scss';
+
+// basic html elements configuration
+@import 'base.scss';
+
+// your own mixins 
+@import 'mixins.scss';
+
+// layouts of website
+@import 'layout/...';
+
+// modules of website (div, boxes, ...)
+@import 'modules/...';
+
+// states can be used with js (.is-hidden, ...)
+@import 'state.scss';
