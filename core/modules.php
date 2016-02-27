@@ -12,3 +12,5 @@ include('core/modules/system/load.php');
 include('core/modules/php-sass/load.php');
 include('core/modules/sql/load.php');
 include('core/modules/form-checker/load.php');
+
+?>
