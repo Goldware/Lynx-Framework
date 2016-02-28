@@ -1,4 +1,4 @@
-[![Everything Is AWESOME]](https://www.youtube.com/watch?v=CYq4JMOwUso "Everything Is AWESOME")
+Vous pouvez si vous préférez, voir la vidéo de présentation de Lynx Framework. Cela vous permettra d'approfondir certains points abordés : https://www.youtube.com/watch?v=CYq4JMOwUso
 
 # Installation
 
