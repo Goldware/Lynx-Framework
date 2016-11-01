@@ -1,4 +1,4 @@
-*/!\ ATTENTION : Vous êtes sur la documentation de Lynx Framework dans sa version 1, vous trouverez sur la branche "2.0.0" la documentation associée /!\*
+**/!\ ATTENTION : Vous êtes sur la documentation de Lynx Framework dans sa version 1, vous trouverez sur la branche "2.0.0" la documentation associée /!\**
 
 # Installation
 
