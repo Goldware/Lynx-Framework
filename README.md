@@ -1,4 +1,4 @@
-Vous pouvez si vous préférez, voir la vidéo de présentation de Lynx Framework. Cela vous permettra d'approfondir certains points abordés : https://www.youtube.com/watch?v=CYq4JMOwUso
+*/!\ ATTENTION : Vous êtes sur la documentation de Lynx Framework dans sa version 1, vous trouverez sur la branche "2.0.0" la documentation associée /!\*
 
 # Installation
 
